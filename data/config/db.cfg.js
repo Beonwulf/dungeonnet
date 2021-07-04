@@ -4,3 +4,4 @@ const dbConfig = {
 	password: "",
 	database: "dungeonnet"
 };
+module.exports = { dbConfig }
